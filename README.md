@@ -1,6 +1,6 @@
 ## CS Student from Tübingen
 
-| ![Pfonks Github Stats](https://github-readme-stats.vercel.app/api?username=pfonks\&rank_icon=github&theme=dark&hide_border=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Pfonks&theme=dark&hide_border=true) |
+| ![Pfonks Github Stats](https://github-readme-stats.vercel.app/api?username=pfonks\&rank_icon=github&theme=dark&hide_border=true&include_all_commits=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Pfonks&theme=dark&hide_border=true) |
 |----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 
 ![Top Langs for Pfonks](https://github-readme-stats.vercel.app/api/top-langs/?username=pfonks&&theme=dark&hide_border=true&layout=donut)
