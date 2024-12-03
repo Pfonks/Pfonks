@@ -1,10 +1,5 @@
 ## CS Student from Tübingen
 
-| ![Pfonks Github Stats](https://github-readme-stats.vercel.app/api?username=pfonks\&rank_icon=github&theme=dark&hide_border=true&include_all_commits=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Pfonks&theme=dark&hide_border=true) |
-|----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-
-![Top Langs for Pfonks](https://github-readme-stats.vercel.app/api/top-langs/?username=pfonks&&theme=dark&hide_border=true&layout=donut)
-
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malte-h) 
 
