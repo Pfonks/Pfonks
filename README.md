@@ -1,5 +1,10 @@
 ## CS Student from Tübingen
 
+| ![Pfonks Github Stats](https://github-readme-stats.vercel.app/api?username=pfonks\&rank_icon=github&theme=dark&hide_border=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Pfonks&theme=dark&hide_border=true) |
+|----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+
+![Top Langs for Pfonks](https://github-readme-stats.vercel.app/api/top-langs/?username=pfonks&&theme=dark&hide_border=true&layout=donut)
+
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malte-h) 
 
@@ -14,8 +19,3 @@
 
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-### GitHub Stats :
-
-| ![](https://github-readme-stats.vercel.app/api?username=Pfonks&theme=dark&hide_border=true&include_all_commits=true&count_private=true) 	| ![](https://github-readme-streak-stats.herokuapp.com/?user=Pfonks&theme=dark&hide_border=true) 	| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pfonks&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 	|
-|-----------------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
